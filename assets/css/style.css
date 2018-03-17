@@ -1,0 +1,35 @@
+.image:hover{
+    color: grey;
+}
+
+body {
+	background-color: green ;
+}
+
+.container {
+	background-color: green;
+	color: green;  
+}
+
+.panel-default {
+   /*background-color: #008000 !important; */
+}
+
+
+.panel-default > .panel-heading {
+ background-color: #008000 !important;
+ /* color: #008000;
+  background-color: #008000;
+  border-color: #ddd;*/
+}
+
+.col-lg-6:first-child { 
+	background-color: blue; 
+}
+.col-lg-12 {
+ background-color: blue; 
+}
+
+.col-lg-3:first-child {
+ background-color: blue; 
+}
